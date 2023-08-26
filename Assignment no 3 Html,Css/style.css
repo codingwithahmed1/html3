@@ -1,0 +1,32 @@
+#al{
+    padding-top: 9px;
+    padding-left: 9px;
+}
+#al.css{
+    inline-size: none;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+a{inline-size: none;}
+.c1{display: inline;}
+button{ display: inline;}
+#b1{
+   background-color: rgb(214, 117, 26);
+   color: white;
+   text-align: center;
+   padding: 10px;
+}
+#i1{
+    padding-left: 20px;
+}
+#p1{
+    text-align: left;
+    font-size: 500%;
+    font-weight: bolder;
+}
+#img1{float: right;}
+#b2{background-color: rgb(214, 117,26);}
+#b3{background-color: black;
+color:white;}
+.c2{text-align: center;}
+*{text-align: center;}
